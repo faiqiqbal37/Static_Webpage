@@ -1,0 +1,53 @@
+h2 H3{
+    font-weight: bold;
+}
+
+.img{
+    background-color:white;
+    background-image: url(assets\pexels-şahin-sezer-dinçer-3686777.jpg);
+    height: 300px;
+    width: 1200px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    margin-top: 80px;
+}
+.article1{
+    
+}
+.section-1{
+    margin-top: 50px;
+}
+.right-allign{
+    text-align: right;
+}
+.center-allign{
+    text-align: center;
+}
+.section-2{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.article2{
+    margin-right: 20px;
+    height: 500px
+}
+.black-font{
+    color: black;
+}
+.article3{
+    
+    
+}
+.pricing-heading{
+    text-align: center;
+    align-content: center;
+}
+
+ul {
+    list-style: none;
+  }
+  
+  .tick:before {
+    content: '✓';
+    color: green;
+  }
